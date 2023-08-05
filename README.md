@@ -1,5 +1,7 @@
-# Music-Store-SQL
-Data Analysis of Music Store Data in PostGreSQL
+# Data Analysis of Music Store Data in PostGreSQL
+
+![download](https://github.com/ligandro/SQL-Music-Store-Data-Analysis/assets/97714265/01954fee-57a3-4d1a-b7bc-19ec78f35982)
+
 
 This Music Store Data Analysis project can be used by
 the business to make informed decisions to enhance customer experience, optimize marketing efforts,
